@@ -102,7 +102,7 @@ define([
 
       onBeforeUnload: function() {
         if(this.appConfig.keepAppState) {
-          //this.appStateManager.saveWabAppState(this.map, this.layerInfosObj);
+          this.appStateManager.saveWabAppState(this.map, this.layerInfosObj);
         }
       },
 
