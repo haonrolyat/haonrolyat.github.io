@@ -250,7 +250,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF866C;}
 
 
 /* CTA */
-#cta .btn, #cta .btn.inverse:hover{color:#FFFFFF; background-color:#FF866C; border-color:#FFFFFF;}
+#cta .btn, #cta .btn.inverse:hover{color:#FFFFFF; background-color:#2b37dc; border-color:#FFFFFF;}
 #cta .btn:hover, #cta .btn.inverse{color:#FF866C; background-color:#FFFFFF; border-color:#FF866C;}
 
 
