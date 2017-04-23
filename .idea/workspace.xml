@@ -2,6 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64f91e1d-3d48-4459-a101-deae1c471da8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/android-icon-144x144.png" afterPath="$PROJECT_DIR$/images/favicon.ico/android-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/android-icon-192x192.png" afterPath="$PROJECT_DIR$/images/favicon.ico/android-icon-192x192.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/android-icon-36x36.png" afterPath="$PROJECT_DIR$/images/favicon.ico/android-icon-36x36.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/android-icon-48x48.png" afterPath="$PROJECT_DIR$/images/favicon.ico/android-icon-48x48.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/android-icon-72x72.png" afterPath="$PROJECT_DIR$/images/favicon.ico/android-icon-72x72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/android-icon-96x96.png" afterPath="$PROJECT_DIR$/images/favicon.ico/android-icon-96x96.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon-114x114.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon-114x114.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon-120x120.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon-120x120.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon-144x144.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon-152x152.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon-152x152.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon-180x180.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon-180x180.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon-57x57.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon-57x57.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon-60x60.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon-60x60.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon-72x72.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon-72x72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon-76x76.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon-76x76.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon-precomposed.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon-precomposed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/apple-icon.png" afterPath="$PROJECT_DIR$/images/favicon.ico/apple-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/favicon-16x16.png" afterPath="$PROJECT_DIR$/images/favicon.ico/favicon-16x16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/favicon-32x32.png" afterPath="$PROJECT_DIR$/images/favicon.ico/favicon-32x32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/favicon-96x96.png" afterPath="$PROJECT_DIR$/images/favicon.ico/favicon-96x96.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/favicon.ico" afterPath="$PROJECT_DIR$/images/favicon.ico/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/ms-icon-144x144.png" afterPath="$PROJECT_DIR$/images/favicon.ico/ms-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/ms-icon-150x150.png" afterPath="$PROJECT_DIR$/images/favicon.ico/ms-icon-150x150.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/ms-icon-310x310.png" afterPath="$PROJECT_DIR$/images/favicon.ico/ms-icon-310x310.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico/ms-icon-70x70.png" afterPath="$PROJECT_DIR$/images/favicon.ico/ms-icon-70x70.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -21,8 +46,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="114" column="59" lean-forward="false" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
+            <state relative-caret-position="120">
+              <caret line="97" column="29" lean-forward="false" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -423,8 +448,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="114" column="59" lean-forward="false" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
+        <state relative-caret-position="120">
+          <caret line="97" column="29" lean-forward="false" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
           <folding />
         </state>
       </provider>
