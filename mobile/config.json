@@ -147,8 +147,7 @@
         "version": "2.2",
         "id": "widgets_Splash_Widget_28",
         "name": "Splash",
-        "config": "configs/Splash/config_Splash.json",
-        "visible": false
+        "config": "configs/Splash/config_Splash.json"
       },
       {
         "position": {
@@ -231,7 +230,7 @@
           "bottom": 60
         },
         "config": "configs/Legend/config_Legend.json",
-        "openAtStart": false
+        "openAtStart": true
       },
       {
         "uri": "widgets/LayerList/Widget",
